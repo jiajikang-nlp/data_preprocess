@@ -8,3 +8,10 @@
 
 实现将word文档文中的内容提取到TXT格式中
 
+##二、pdf2txt.py
+
+将pdf文件中内容提取到txt格式文本中
+
+## 三、extracTxt.py
+
+多格式的文本信息抽取到txt格式文本中
