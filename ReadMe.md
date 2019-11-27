@@ -8,7 +8,7 @@
 
 实现将word文档文中的内容提取到TXT格式中
 
-##二、pdf2txt.py
+## 二、pdf2txt.py
 
 将pdf文件中内容提取到txt格式文本中
 
@@ -30,7 +30,7 @@
 
 ---
 
-ClearText文件夹下：
+<font color=red>ClearText文件夹下：</font>
 
 ## 一、genyield.py
 
@@ -46,11 +46,39 @@ EffictRead.ipynb：高效方法读取文件数据
 
 正则表达式的联系以及关于日期和电话号码的提取
 
-##四、REdealText.ipynb
+## 四、REdealText.ipynb
 
 实现利用正则表达式进行清洗文本数据
 
 ## 五、DealHtml.ipynb
 
 清洗HTML网页数据
+
+## 六、zhline.ipynb
+
+简繁体字的转换
+
+## 七、30wClear.ipynb
+
+针对一个30w条新闻文本数据的一个清洗
+
+## 八、jiebaCut.ipynb
+
+结巴分词的基础知识
+
+## 九、HanLPCut.ipynb
+
+HanLP分词的基础知识学习
+
+## 十、StopWords.ipynb
+
+自定义去除停用词
+
+## 十一、FreqWord.ipynb
+
+NTLT词频统计
+
+## 十二、自定义选择高低词频
+
+HLWord.ipynb,stopword.py,freqwod.py
 
