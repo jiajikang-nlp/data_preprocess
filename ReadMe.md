@@ -82,3 +82,25 @@ NTLT词频统计
 
 HLWord.ipynb,stopword.py,freqwod.py
 
+## 十三、TFIDF.ipynb
+
+此程序的功能是：利用sklearn计算多分类下的tf-idf权重
+
+## 十四、30wDealText.ipynb
+
+实现对30万新闻问进行特征提取
+
+
+
+---
+
+# 文本特征向量化
+
+## 一、splitData.ipynb
+
+数据集和特征集的处理 
+
+## 二、lossVal_numpy.ipynb
+
+利用numpy进行处理数据集缺失值(数据缺失值填充)
+
